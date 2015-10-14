@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>ccbResources/menuicon/icon_frame.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {136, 136}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {136, 136}}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>ccbResources/menuicon/icon_lock.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{372, 373}, {112, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {112, 40}}</string>
+			<key>sourceSize</key>
+			<string>{112, 40}</string>
+		</dict>
+		<key>ccbResources/menuicon/icon_t10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 390}, {122, 121}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{8, 9}, {122, 121}}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>ccbResources/menuicon/icon_t11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{370, 249}, {122, 121}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8, 9}, {122, 121}}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>ccbResources/menuicon/icon_t12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{385, 1}, {122, 121}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{8, 9}, {122, 121}}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>ccbResources/menuicon/icon_t13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{139, 1}, {122, 121}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8, 9}, {122, 121}}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>ccbResources/menuicon/icon_t14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{247, 263}, {122, 121}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8, 9}, {122, 121}}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>ccbResources/menuicon/icon_t15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{124, 266}, {122, 121}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8, 9}, {122, 121}}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>ccbResources/menuicon/icon_t2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 266}, {122, 121}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8, 9}, {122, 121}}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>ccbResources/menuicon/icon_t3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{125, 139}, {122, 121}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8, 9}, {122, 121}}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>ccbResources/menuicon/icon_t4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{248, 125}, {122, 121}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8, 9}, {122, 121}}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>ccbResources/menuicon/icon_t5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{385, 124}, {122, 121}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{8, 9}, {122, 121}}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>ccbResources/menuicon/icon_t6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{125, 390}, {122, 121}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{8, 9}, {122, 121}}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>ccbResources/menuicon/icon_t7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{249, 387}, {122, 121}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8, 9}, {122, 121}}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>ccbResources/menuicon/icon_t8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{262, 1}, {122, 121}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8, 9}, {122, 121}}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>ccbResources/menuicon/icon_t9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 139}, {122, 125}}</string>
+			<key>offset</key>
+			<string>{1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{8, 5}, {122, 125}}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>textureFileName</key>
+		<string>menuicon.png</string>
+	</dict>
+</dict>
+</plist>

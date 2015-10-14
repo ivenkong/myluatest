@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>ccbResources/monstericons/bg_frame_monster.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{199, 100}, {82, 82}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {82, 82}}</string>
+			<key>sourceSize</key>
+			<string>{82, 82}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{892, 1}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 595}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{595, 1}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{100, 595}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 397}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{397, 1}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{100, 397}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster16.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 199}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{199, 1}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster18.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{100, 199}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 298}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 496}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{496, 1}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{100, 496}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster23.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 694}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster24.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{298, 1}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster25.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{100, 298}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster26.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 100}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster27.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{100, 1}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster28.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{100, 100}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{694, 1}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{100, 793}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 892}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{100, 694}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 793}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{793, 1}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ccbResources/monstericons/monster9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{100, 892}, {97, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {97, 97}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>monstericons.png</string>
+	</dict>
+</dict>
+</plist>

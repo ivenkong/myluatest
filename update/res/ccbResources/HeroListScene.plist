@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>ccbResources/HeroListScene/bg_Magic_circle.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{701, 140}, {306, 306}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {306, 306}}</string>
+			<key>sourceSize</key>
+			<string>{306, 306}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/bg_equipment_name.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{369, 81}, {330, 73}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {330, 73}}</string>
+			<key>sourceSize</key>
+			<string>{330, 73}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/bg_equipment_no.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{953, 90}, {39, 39}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 39}}</string>
+			<key>sourceSize</key>
+			<string>{39, 39}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/bg_hero.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{735, 1}, {137, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {137, 148}}</string>
+			<key>sourceSize</key>
+			<string>{137, 148}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/bg_hero_info.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {366, 137}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {366, 137}}</string>
+			<key>sourceSize</key>
+			<string>{366, 137}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/bg_impression.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{369, 1}, {364, 78}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {364, 78}}</string>
+			<key>sourceSize</key>
+			<string>{364, 78}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/bg_name_color_14_14_14_14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{885, 90}, {66, 46}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {66, 46}}</string>
+			<key>sourceSize</key>
+			<string>{66, 46}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/bg_skills1_20_20_20_20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{260, 227}, {79, 77}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {79, 77}}</string>
+			<key>sourceSize</key>
+			<string>{79, 77}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/bg_skills2_20_20_20_20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{179, 227}, {79, 77}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {79, 77}}</string>
+			<key>sourceSize</key>
+			<string>{79, 77}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/btn_skill_up_clicked.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{90, 140}, {87, 87}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {87, 87}}</string>
+			<key>sourceSize</key>
+			<string>{87, 87}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/btn_skill_up_disable.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 140}, {87, 87}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {87, 87}}</string>
+			<key>sourceSize</key>
+			<string>{87, 87}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/btn_skill_up_normal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{885, 1}, {87, 87}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {87, 87}}</string>
+			<key>sourceSize</key>
+			<string>{87, 87}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/hero_patch.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{117, 283}, {52, 52}}</string>
+			<key>offset</key>
+			<string>{1, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 5}, {52, 52}}</string>
+			<key>sourceSize</key>
+			<string>{57, 57}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/hero_type_far.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 283}, {56, 56}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {56, 56}}</string>
+			<key>sourceSize</key>
+			<string>{56, 56}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/hero_type_nere.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{59, 283}, {56, 56}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {56, 56}}</string>
+			<key>sourceSize</key>
+			<string>{56, 56}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/hero_type_star.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{701, 81}, {30, 30}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {30, 30}}</string>
+			<key>sourceSize</key>
+			<string>{30, 30}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/icon_advance.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{60, 229}, {57, 52}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {57, 52}}</string>
+			<key>sourceSize</key>
+			<string>{57, 52}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/icon_set_highlight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 229}, {57, 52}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {57, 52}}</string>
+			<key>sourceSize</key>
+			<string>{57, 52}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/icon_set_normal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{119, 229}, {57, 52}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {57, 52}}</string>
+			<key>sourceSize</key>
+			<string>{57, 52}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/skill_icon_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{267, 140}, {86, 85}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {86, 85}}</string>
+			<key>sourceSize</key>
+			<string>{86, 86}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/skill_type_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{179, 140}, {86, 85}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {86, 85}}</string>
+			<key>sourceSize</key>
+			<string>{86, 86}</string>
+		</dict>
+		<key>ccbResources/HeroListScene/skill_type_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{355, 156}, {86, 85}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {86, 85}}</string>
+			<key>sourceSize</key>
+			<string>{86, 86}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>HeroListScene.png</string>
+	</dict>
+</dict>
+</plist>

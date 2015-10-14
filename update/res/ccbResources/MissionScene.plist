@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>ccbResources/MissionScene/bg_frame_40_40_40_40.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{926, 174}, {82, 82}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {82, 82}}</string>
+			<key>sourceSize</key>
+			<string>{82, 82}</string>
+		</dict>
+		<key>ccbResources/MissionScene/bg_task1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 162}, {798, 159}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {798, 159}}</string>
+			<key>sourceSize</key>
+			<string>{798, 159}</string>
+		</dict>
+		<key>ccbResources/MissionScene/bg_task2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {798, 159}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {798, 159}}</string>
+			<key>sourceSize</key>
+			<string>{798, 159}</string>
+		</dict>
+		<key>ccbResources/MissionScene/icon_h.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{801, 56}, {168, 116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {168, 116}}</string>
+			<key>sourceSize</key>
+			<string>{168, 116}</string>
+		</dict>
+		<key>ccbResources/MissionScene/txt_daily_mission.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{801, 1}, {194, 53}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {194, 53}}</string>
+			<key>sourceSize</key>
+			<string>{198, 57}</string>
+		</dict>
+		<key>ccbResources/MissionScene/txt_normal_mission.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{801, 174}, {123, 54}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {123, 54}}</string>
+			<key>sourceSize</key>
+			<string>{127, 58}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>MissionScene.png</string>
+	</dict>
+</dict>
+</plist>
